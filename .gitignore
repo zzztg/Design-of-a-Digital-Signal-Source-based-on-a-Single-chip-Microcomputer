@@ -1,0 +1,24 @@
+# Keil MDK-ARM build artifacts
+软件工程/ad9834_test1/MDK-ARM/*.o
+软件工程/ad9834_test1/MDK-ARM/*.axf
+软件工程/ad9834_test1/MDK-ARM/*.hex
+软件工程/ad9834_test1/MDK-ARM/*.bin
+软件工程/ad9834_test1/MDK-ARM/*.elf
+软件工程/ad9834_test1/MDK-ARM/*.map
+软件工程/ad9834_test1/MDK-ARM/*.d
+软件工程/ad9834_test1/MDK-ARM/*.crf
+软件工程/ad9834_test1/MDK-ARM/*.dep
+软件工程/ad9834_test1/MDK-ARM/*.lnp
+软件工程/ad9834_test1/MDK-ARM/*.sct
+软件工程/ad9834_test1/MDK-ARM/*.iex
+软件工程/ad9834_test1/MDK-ARM/*.bak
+软件工程/ad9834_test1/MDK-ARM/*.scvd
+软件工程/ad9834_test1/MDK-ARM/*.htm
+软件工程/ad9834_test1/MDK-ARM/*.lst
+软件工程/ad9834_test1/MDK-ARM/*.uvguix.*
+软件工程/ad9834_test1/MDK-ARM/Listings/
+软件工程/ad9834_test1/MDK-ARM/Objects/
+软件工程/ad9834_test1/MDK-ARM/ad9834_test1/
+
+# STM32 CubeMX temporary files
+软件工程/ad9834_test1/.mxproject
