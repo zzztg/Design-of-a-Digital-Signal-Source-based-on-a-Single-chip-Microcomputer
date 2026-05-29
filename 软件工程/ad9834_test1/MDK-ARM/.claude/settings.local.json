@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -R \"c:/Users/dingf/Desktop/ad9834_project/ad9834_test1\")",
+      "Read(//c/Users/dingf/Desktop/ad9834_project/ad9834_test1/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Core\\Inc",
+      "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Core\\Src"
+    ]
+  }
+}
