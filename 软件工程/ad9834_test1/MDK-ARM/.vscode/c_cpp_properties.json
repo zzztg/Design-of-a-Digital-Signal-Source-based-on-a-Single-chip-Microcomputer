@@ -3,19 +3,19 @@
         {
             "name": "ad9834_test1",
             "includePath": [
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Core\\Inc",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\BSP",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Core\\Inc",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Drivers\\STM32F4xx_HAL_Driver\\Inc",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\BSP",
                 "D:\\Keil5\\ARM\\ARMCC\\include",
                 "D:\\Keil5\\ARM\\ARMCC\\include\\arm_linux",
                 "D:\\Keil5\\ARM\\ARMCC\\include\\arm_linux_compat",
                 "D:\\Keil5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\MDK-ARM",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Core\\Src",
-                "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Drivers\\STM32F4xx_HAL_Driver\\Src"
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\MDK-ARM",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Core\\Src",
+                "c:\\Users\\dingf\\Desktop\\毕业设计\\软件工程\\ad9834_test1\\Drivers\\STM32F4xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",

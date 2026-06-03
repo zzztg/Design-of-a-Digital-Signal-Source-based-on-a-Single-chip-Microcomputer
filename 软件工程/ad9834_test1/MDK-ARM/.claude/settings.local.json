@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(ls -R \"c:/Users/dingf/Desktop/ad9834_project/ad9834_test1\")",
-      "Read(//c/Users/dingf/Desktop/ad9834_project/ad9834_test1/**)"
+      "Read(//c/Users/dingf/Desktop/ad9834_project/ad9834_test1/**)",
+      "Bash(ls /c/Users/dingf/Desktop/毕业设计/软件工程/ad9834_test1/Core/Src/)",
+      "Read(//c/Users/dingf/Desktop/毕业设计/软件工程/ad9834_test1/Core/Src//**)",
+      "Bash(python3 /c/Users/dingf/Desktop/毕业设计/软件工程/ad9834_test1/tmp_rewrite.py)",
+      "Bash(py --version)",
+      "Bash(/c/Users/dingf/AppData/Local/Programs/Python/Python314/python /c/Users/dingf/Desktop/毕业设计/软件工程/ad9834_test1/tmp_rewrite.py)"
     ],
     "additionalDirectories": [
       "c:\\Users\\dingf\\Desktop\\ad9834_project\\ad9834_test1\\Core\\Inc",
